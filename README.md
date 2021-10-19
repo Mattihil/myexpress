@@ -6,3 +6,4 @@ server3.js on get-method, joka löytyy get kansion sisältä
 server4.js on post-method, joka löytyy post kansion sisältä
 server5.js on file upload (en saanut toimimaan)
 server6.js on cookies managment (en saanut toimimaan)
+UPDATE: Näköjään ei ollut tuonut koodeja server5.js ja server6.js,on vain tyhjä tiedosto. En tehnyt uudestaan kun se ei toiminut. 
